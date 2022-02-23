@@ -2,9 +2,9 @@
   "name": "dreamhouse-web-app",
   "description": "DreamHouse Web App",
   "keywords": [
-    "app-cloud"
+    "app-cloud"https://github.com/KangMooSoon/intro-to-heroku/blob/master/app.json
   ],
-  "repository": "https://github.com/YOUR_USERNAME/intro-to-heroku",
+  "repository": "https://github.com/KangMooSoon/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
   ]
